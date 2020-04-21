@@ -1,0 +1,243 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   24.21.13.9764
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll (this message is harmless)
+Loading D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll into Unity Child Domain
+- Completed reload, in  0.061 seconds
+Platform assembly: D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Data\Epita\Projet\En cours\BobbySoccer\BobbySoccer_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 41.437317 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 3648 -> priority: 1 
+  Thread -> id: 4604 -> priority: 1 
+  Thread -> id: 41c0 -> priority: 1 
+  Thread -> id: 3f10 -> priority: 1 
+  Thread -> id: 3ae4 -> priority: 1 
+  Thread -> id: 40d4 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'SoccerBall') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'SoccerBall') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'PersoSnakeMulti (1)') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'KohannMulti (1)') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'PersoLilUziMulti (1)') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.685903 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1858.
+Total: 0.858640 ms (FindLiveObjects: 0.051581 ms CreateObjectMapping: 0.063835 ms MarkObjects: 0.721850 ms  DeleteObjects: 0.020803 ms)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'PersoEddyMulti (1)' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'KohannMulti (1)' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'PersoEddyMulti (1)' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'PersoLilUziMulti (1)' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'PersoSnakeMulti (1)' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'PersoEddyMulti (1)' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.509256 ms
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'SoccerBall') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'SoccerBall') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'SoccerBall') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'SoccerBall') is missing!
+ 
+(Filename:  Line: 1744)
+
+The prefab 'PersoEddyMulti (1)' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'KohannMulti (1)' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'PersoEddyMulti (1)' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'PersoLilUziMulti (1)' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'PersoSnakeMulti (1)' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 8378.
+Total: 3.950373 ms (FindLiveObjects: 0.543454 ms CreateObjectMapping: 0.169277 ms MarkObjects: 2.861755 ms  DeleteObjects: 0.375031 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Kick.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Kick.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Kick.OnTriggerExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Kick.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Kick.OnTriggerExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Kick.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Kick.OnTriggerExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Kick.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Kick.OnTriggerExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Kick.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Kick.OnTriggerExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerStatus.CmdNotifyMyDestructionToTheServer () [0x00000] in <filename unknown>:0 
+  at PlayerStatus.CallCmdNotifyMyDestructionToTheServer () [0x00000] in <filename unknown>:0 
+  at PlayerStatus.OnNetworkDestroy () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.OnNetworkDestroy () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.DestroyObject (UnityEngine.Networking.NetworkIdentity uv, Boolean destroyServerObject) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.DestroyObject (UnityEngine.GameObject obj) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.Destroy (UnityEngine.GameObject obj) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerStatus.CmdNotifyMyDestructionToTheServer () [0x00000] in <filename unknown>:0 
+  at PlayerStatus.CallCmdNotifyMyDestructionToTheServer () [0x00000] in <filename unknown>:0 
+  at PlayerStatus.OnNetworkDestroy () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.OnNetworkDestroy () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.DestroyObject (UnityEngine.Networking.NetworkIdentity uv, Boolean destroyServerObject) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.DestroyObject (UnityEngine.GameObject obj) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.Destroy (UnityEngine.GameObject obj) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 5.799885 ms
+
+Unloading 233 unused Assets to reduce memory usage. Loaded Objects now: 2986.
+Total: 3.684773 ms (FindLiveObjects: 0.162722 ms CreateObjectMapping: 0.098317 ms MarkObjects: 2.208299 ms  DeleteObjects: 1.214578 ms)
+
+Instance not found when handling Command message [netId=8]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
